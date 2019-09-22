@@ -1,4 +1,4 @@
-#Largest palindrom product
+#Largest palindrom product of n digit
 n=3;
 s="";
 f=False;

@@ -1,3 +1,4 @@
+# high Divisible triangular number 
 def countdiv(n):
     c=1
     for i in range(1,int(n/2+1)):

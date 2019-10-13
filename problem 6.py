@@ -1,4 +1,4 @@
-#Sum squar difference upto n 
+#sUM squar difference
 
 n=100;
 l=[i for i in range(1,n+1)];

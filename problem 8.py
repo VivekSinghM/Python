@@ -1,4 +1,4 @@
-#Largest product in series(1000 digits) og n adjacent digits
+#Largest product in series
 from random import randint
 import numpy
 def randomnum(x):

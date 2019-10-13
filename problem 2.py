@@ -1,4 +1,4 @@
-#Even Febonacci number upto n
+#Even Febonacci number
 n=4000000
 a=0;
 b=1;

@@ -1,4 +1,4 @@
-#multiples of 3 0r 5 upto n
+#multiples of 3 0r 5
 n=1000
 for i in range (n):
 	i+=1;

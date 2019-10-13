@@ -1,3 +1,4 @@
+#special pythagorean triplet
 sum=1000
 def triplet(sum):    
     for a in range(1,int(sum/3)+1):
